@@ -27,3 +27,13 @@ logToFile()
 Timestamp + message
      ↓
 eventlog.txt
+
+## How To Run
+
+1. git clone <https://github.com/devgurveer/node-event-logger.git>
+
+2.cd node-event-logger
+
+3.node logger.js
+
+4.eventlog.txt
