@@ -15,11 +15,11 @@ A simple event-driven logging system built with Node.js using the built-in `Even
 
 1. git clone <https://github.com/devgurveer/node-event-logger.git>
 
-2.cd node-event-logger
+2. cd node-event-logger
 
-3.node logger.js
+3. node logger.js
 
-4.eventlog.txt
+4. eventlog.txt
 
 ## How It Works
 
