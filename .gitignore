@@ -1,0 +1,7 @@
+
+### `.gitignore`
+
+```gitignore
+node_modules/
+eventlog.txt
+.env
